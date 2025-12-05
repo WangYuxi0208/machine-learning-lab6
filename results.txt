@@ -1,0 +1,10 @@
+# Lab 6 – KNN Classification Results
+
+Accuracy:
+<Your accuracy here>
+
+Classification Report:
+<Your classification report here>
+
+Confusion Matrix Image:
+Saved as confusion_matrix.png
